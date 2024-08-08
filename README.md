@@ -1,5 +1,13 @@
 # Discord Music Bot (v1)!!!!!
 
+<p align="center">
+  <img src="https://i.ibb.co/YLz4XKg/icon.png" alt="Bot Logo" width="300"/>
+</p>
+
+<p align="center">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?l=latam&id=3165682057">Image reference</a>
+</p>
+
 ## Overview
 
 This discord bot plays, adds, skips, pauses, resumes, and stops music in a Discord voice channel. It uses the YouTube API to fetch video URLs and `@discordjs/voice` for audio handling.
